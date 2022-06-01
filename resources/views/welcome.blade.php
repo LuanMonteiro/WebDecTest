@@ -22,9 +22,8 @@
     <body class="antialiased">
     	<div class="ml-12">
 		<div id="app" class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-			Testando 123!
 			<example-component></example-component>
-                </div>
+        </div>
 	</div>
     </body>
     <script src="{{ mix('/js/app.js') }}"></script>
